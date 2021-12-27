@@ -4,8 +4,7 @@
 - 📫 How to reach me: contact@parkermeyers.com
 - 😄 Pronouns: he/him/his
 - 🌱 I’m currently learning **Java**, Node.js, Express, HTML & CSS
-- 🔭 I’m currently taking on AP Computer Science A
-- ⚡ Fun fact: I've been interested in Computer Science from a very young age!
+- 🔭 I’m currently taking AP Computer Science A
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ParkerMeyers&count_private=true&show_icons=true&theme=midnight-purple&border_radius=20&border_color=000000)
 
