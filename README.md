@@ -10,4 +10,4 @@
 
 ![Gituhb Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ParkerMeyers&count_private=true&show_icons=true&theme=midnight-purple&border_radius=25&layout=compact&border_color=000000)
 
-![Github Snake](https://github.com/ParkerMeyers/ParkerMeyers/blob/output/github-contribution-grid-snake.svg)
+![Github Snake](https://raw.githubusercontent.com/ParkerMeyers/ParkerMeyers/output/github-snake.svg)
